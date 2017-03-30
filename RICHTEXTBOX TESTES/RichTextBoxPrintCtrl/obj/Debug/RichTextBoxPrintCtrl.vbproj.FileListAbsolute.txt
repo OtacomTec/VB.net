@@ -1,0 +1,9 @@
+C:\Users\mac\Desktop\WindowsApplication1\RichTextBoxPrintCtrl\bin\Debug\RichTextBoxPrintCtrl.dll
+C:\Users\mac\Desktop\WindowsApplication1\RichTextBoxPrintCtrl\bin\Debug\RichTextBoxPrintCtrl.pdb
+C:\Users\mac\Desktop\WindowsApplication1\RichTextBoxPrintCtrl\bin\Debug\RichTextBoxPrintCtrl.xml
+C:\Users\mac\Desktop\WindowsApplication1\RichTextBoxPrintCtrl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mac\Desktop\WindowsApplication1\RichTextBoxPrintCtrl\obj\Debug\RichTextBoxPrintCtrl.Resources.resources
+C:\Users\mac\Desktop\WindowsApplication1\RichTextBoxPrintCtrl\obj\Debug\RichTextBoxPrintCtrl.vbproj.GenerateResource.Cache
+C:\Users\mac\Desktop\WindowsApplication1\RichTextBoxPrintCtrl\obj\Debug\RichTextBoxPrintCtrl.dll
+C:\Users\mac\Desktop\WindowsApplication1\RichTextBoxPrintCtrl\obj\Debug\RichTextBoxPrintCtrl.xml
+C:\Users\mac\Desktop\WindowsApplication1\RichTextBoxPrintCtrl\obj\Debug\RichTextBoxPrintCtrl.pdb

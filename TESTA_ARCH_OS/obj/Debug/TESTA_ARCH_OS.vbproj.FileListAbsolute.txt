@@ -1,0 +1,10 @@
+C:\Users\mac\Desktop\TESTA_ARCH_OS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mac\Desktop\TESTA_ARCH_OS\obj\Debug\TESTA_ARCH_OS.Form1.resources
+C:\Users\mac\Desktop\TESTA_ARCH_OS\obj\Debug\TESTA_ARCH_OS.Resources.resources
+C:\Users\mac\Desktop\TESTA_ARCH_OS\obj\Debug\TESTA_ARCH_OS.vbproj.GenerateResource.Cache
+C:\Users\mac\Desktop\TESTA_ARCH_OS\bin\Debug\TESTA_ARCH_OS.exe
+C:\Users\mac\Desktop\TESTA_ARCH_OS\bin\Debug\TESTA_ARCH_OS.pdb
+C:\Users\mac\Desktop\TESTA_ARCH_OS\bin\Debug\TESTA_ARCH_OS.xml
+C:\Users\mac\Desktop\TESTA_ARCH_OS\obj\Debug\TESTA_ARCH_OS.exe
+C:\Users\mac\Desktop\TESTA_ARCH_OS\obj\Debug\TESTA_ARCH_OS.xml
+C:\Users\mac\Desktop\TESTA_ARCH_OS\obj\Debug\TESTA_ARCH_OS.pdb

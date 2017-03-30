@@ -1,0 +1,2 @@
+C:\Users\mac\Desktop\Threads\obj\Debug\Threads1.exe
+C:\Users\mac\Desktop\Threads\obj\Debug\Threads1.pdb

@@ -1,0 +1,7 @@
+C:\Users\mac\Desktop\RTFLib\RTFLib\RTFLib\bin\Debug\RTFLib.dll
+C:\Users\mac\Desktop\RTFLib\RTFLib\RTFLib\bin\Debug\RTFLib.pdb
+C:\Users\mac\Desktop\RTFLib\RTFLib\RTFLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mac\Desktop\RTFLib\RTFLib\RTFLib\obj\Debug\GDF.GDFDisplayBox.resources
+C:\Users\mac\Desktop\RTFLib\RTFLib\RTFLib\obj\Debug\RTFLib.csproj.GenerateResource.Cache
+C:\Users\mac\Desktop\RTFLib\RTFLib\RTFLib\obj\Debug\RTFLib.dll
+C:\Users\mac\Desktop\RTFLib\RTFLib\RTFLib\obj\Debug\RTFLib.pdb

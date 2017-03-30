@@ -1,0 +1,13 @@
+C:\Users\mac\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mac\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\mac\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\mac\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\mac\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\mac\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\mac\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\mac\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\RichTextBoxPrintCtrl.dll
+C:\Users\mac\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\RichTextBoxPrintCtrl.pdb
+C:\Users\mac\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\RichTextBoxPrintCtrl.xml
+C:\Users\mac\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\mac\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\mac\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
